@@ -1,8 +1,15 @@
-# 创建项目
+# 基础使用
+
+## 创建项目
 
 * 下载LibGDX [Project Setup Tool](https://libgdx.com/assets/downloads/legacy_setup/gdx-setup_latest.jar)
 * 来到对应的文件夹，执行`java -jar ./gdx-setup_latest.jar`
 * 配置完毕后，点击生成
+
+## 启动项目 
+
+* 用IDE打开项目
+* 启动项目：打开gradle选项卡，点击`desktop -> other -> run`
 
 # 项目结构
 
