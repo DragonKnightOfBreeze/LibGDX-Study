@@ -1,4 +1,4 @@
-package com.windea
+package com.windea.study.gdx
 
 import com.badlogic.gdx.ApplicationAdapter
 import com.badlogic.gdx.graphics.*

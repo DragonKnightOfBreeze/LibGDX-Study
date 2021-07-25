@@ -1,9 +1,9 @@
-package com.windea.desktop
+package com.windea.study.gdx.desktop
 
 import kotlin.jvm.JvmStatic
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication
-import com.windea.MyGdxGame
+import com.windea.study.gdx.MyGdxGame
 
 //游戏启动类
 object DesktopLauncher {
